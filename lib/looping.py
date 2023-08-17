@@ -12,6 +12,7 @@ def happy_new_year():
 
 def square_integers(int_list):
     # code goes here!
+    # known as list comprehension
     return [s * s for s in int_list]
 
 def fizzbuzz():
